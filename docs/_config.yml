@@ -1,6 +1,4 @@
 encoding: utf-8
-source: '..'
-destination: './_site'
-includes_dir: './'
+includes_dir: '.'
 #include: ['endlesssea.html']
 exclude: ['docs/Gemfile', 'docs/Gemfile.lock', 'endlesssea.html']
